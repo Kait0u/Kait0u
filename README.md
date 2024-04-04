@@ -8,3 +8,5 @@ I always try to learn new things, so if you have something to say about anything
 In the future I hope to code for video games, but as of now - my road towards that goal is still pretty long. My determination, however, is unfaltering!
 
 It is a pleasure to be here, and to meet you all.
+
+Check out [my website](https://www.kaitou-dev.pl/)! 
