@@ -1,6 +1,6 @@
 👋 Hi, I’m @Kait0u! Or as they call me in the real world - Jakub Jaworski. 
 
-I am just your friendly neighborhood Computer Science undergraduate.
+I am just your friendly neighborhood Computer Science undergraduate. My specialization at the academy is Software Engineering, but I also take interest in Data Science and Machine Learning.
 
 This place is going to serve as my portfolio for bigger and smaller projects!
 I always try to learn new things, so if you have something to say about anything that I will post here, feel free to speak your mind! I will more than appreciate it!
